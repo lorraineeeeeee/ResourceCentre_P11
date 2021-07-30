@@ -287,10 +287,7 @@ public class ResourceCentre {
 			}
 		}
 		return isReturned;
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/lorraineeeeeee/ResourceCentre_P11.git
 	}
 
 	public static void returnCamcorder(ArrayList<Camcorder> camcorderList) {
@@ -319,10 +316,7 @@ public class ResourceCentre {
 			}
 		}
 		return isReturned;
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/lorraineeeeeee/ResourceCentre_P11.git
 	}
 
 	public static void returnChromebook(ArrayList<Chromebook> chromebookList) {
@@ -337,8 +331,5 @@ public class ResourceCentre {
 			System.out.println("Chromebook " + tag + " returned");
 		}
 	}
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/lorraineeeeeee/ResourceCentre_P11.git
 }
